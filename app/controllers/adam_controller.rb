@@ -1,12 +1,4 @@
-class WelcomeController<ApplicationController
+class AdamController<ApplicationController
 
-
-  def home
-    p "sssssss"
-    p "sssssss"
-    p "sssssss"
-    p "sssssss"
-
-  end
 
 end
